@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Jimmy Shah
-email: jimmyshah01@icloud.com
+# email: jimmyshah01@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -27,7 +27,7 @@ show_excerpts: false # Show excerpts of posts on the home page
 permalink: /:categories/:title # Don't show the date of the post in the URL
 
 # Social
-linkedin_username: jimmy-shah-430544100
+# linkedin_username: jimmy-shah-430544100
 
 show_tags: true
 
