@@ -33,10 +33,11 @@ show_tags: true
 
 # Build settings
 theme: minima
-minima:
-  skin: dark
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+
+remote_theme: jekyll/minima
 
 defaults:
   - scope:
