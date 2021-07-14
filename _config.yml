@@ -39,9 +39,6 @@ plugins:
 
 remote_theme: jekyll/minima
 
-minima:
-  skin: dark
-
 defaults:
   - scope:
       path: _posts
